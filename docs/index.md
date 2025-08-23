@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Hello!
+这里是蓝蓝安晚  
+  
+我会在这里更新一些我的笔记  
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+如果你是  
+    - 电脑端：在上方标签栏选择主题，在左侧目录选择文章  
+    - 移动端：点击左上角图标选择主题和文章  
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+你也可以在顶部搜索栏查找关键词

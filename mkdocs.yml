@@ -2,14 +2,20 @@
 # 左上角标题
 site_name: 蓝蓝安晚的笔记页
 site_url: https://aiyasu1921.github.io/mkdocs-site
-site_author: 杨希杰蓝蓝安晚
+site_author: 蓝蓝安晚
 site_description: 蓝蓝安晚的笔记页
 
 # [Navigtion]
 nav:
-  - 动画
-  - 绘画
-  - 技术
+  - Home: index.md
+  - 动画: 
+    - anime/动规的总结.md
+    - anime/动规的总结 02：同描、更新率.md
+    - anime/动规的总结 03：动态模糊.md
+  - 绘画: 
+    - draw/关于线条的总结.md
+    - draw/关于质感的总结.md
+  - 技术: 
 
 # [UI]
 # [top]

@@ -8,14 +8,13 @@ site_description: 蓝蓝安晚的笔记页
 # [Navigtion]
 nav:
   - Home: index.md
-  - 动画: 
+  - 动画:
     - anime/动规的总结.md
     - anime/动规的总结 02：同描、更新率.md
     - anime/动规的总结 03：动态模糊.md
-  - 绘画: 
+  - 绘画:
     - draw/关于线条的总结.md
     - draw/关于质感的总结.md
-  - 技术: 
 
 # [UI]
 # [top]
@@ -39,7 +38,7 @@ theme:
         name: 切换至夜间模式
     # 夜间模式
     - scheme: slate
-      primary: indigoblue grey
+      primary: blue grey
       accent: orange
       toggle:
         icon: material/weather-sunny
@@ -80,8 +79,8 @@ edit_uri: edit/main/docs/
 # [top-right corner]
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
-repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io
-repo_name: yang-xijie.github.io
+repo_url: https://github.com/Aiyasu1921/mkdocs-site
+repo_name: Aiyasu1921.github.io
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
@@ -102,8 +101,8 @@ extra:
     - name: 小红书 | 蓝蓝安晚
       icon: fontawesome/solid/images
       link: https://www.xiaohongshu.com/user/profile/60e07265000000000100260a
-    - name: X | 蓝安
-      icon: fontawesome/brands/x
+    - name: Twitter | 蓝安
+      icon: fontawesome/brands/twitter
       link: https://x.com/aiyasu1921
 
 # [Extensions]

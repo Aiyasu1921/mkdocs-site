@@ -1,2 +1,2 @@
 # mkdocs-site
-个人笔记发布，基于MkDocs框架
+个人笔记，基于MkDocs框架

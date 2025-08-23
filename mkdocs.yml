@@ -1,7 +1,7 @@
 # [Info]
 # 左上角标题
 site_name: 蓝蓝安晚的笔记页
-site_url: https://aiyasu1921.github.io/mkdocs-site
+site_url: https://Aiyasu1921.github.io/mkdocs-site
 site_author: 蓝蓝安晚
 site_description: 蓝蓝安晚的笔记页
 
@@ -171,3 +171,4 @@ extra_css:
   - mkdocs/css/no-footer.css
   # 无序列表符号自定义
   - mkdocs/css/unordered-list-symbols.css
+

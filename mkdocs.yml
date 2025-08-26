@@ -15,6 +15,7 @@ nav:
   - 绘画:
     - draw/关于线条的总结.md
     - draw/关于质感的总结.md
+    - draw/伽马值、灰度系数.md
 
 # [UI]
 # [top]
@@ -171,4 +172,5 @@ extra_css:
   - mkdocs/css/no-footer.css
   # 无序列表符号自定义
   - mkdocs/css/unordered-list-symbols.css
+
 
